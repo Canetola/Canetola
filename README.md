@@ -1,3 +1,3 @@
-# No momento contribuindo em outras coisas 🌙
+# Opa, sou Gab 🇧🇷
 
-Enfim, pra mim, Git é praticamente inútil, por assim dizer. Mas isso não é um problema, já que um dia pode se tornar útil... Sei lá
+Aqui pra postar projetos em C++, linguagem materna e outras coisas
